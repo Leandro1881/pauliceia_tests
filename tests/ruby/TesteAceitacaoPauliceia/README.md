@@ -7,6 +7,7 @@ Os testes incluem:
 - Criação de camada
 - Edição de camada
 - Apagar camadas
+- Procura de mapa histórico por endereço
 
 A log da ultima execução está no arquivo "execucao_testes.log".
 
